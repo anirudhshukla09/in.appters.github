@@ -61,8 +61,8 @@ public class TrinaryTree {
 	      Print(root);
 	      System.out.println("Deleting");
 	      Delete(root, 7);
+	      System.out.println("After Deleting");
 	      Print(root);
-
 	  }
 
 	  //Insert a node into the tree
